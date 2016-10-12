@@ -1,1 +1,5 @@
-I do not hate Ruby and JavaScript. I like C# and SQL or databases in general. And I wish to know more about functional programming.
+I do not hate Ruby and JavaScript.
+
+* SQL
+* Finding things annoying
+* Drink and know things
