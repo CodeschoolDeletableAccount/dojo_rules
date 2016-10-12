@@ -1,1 +1,1 @@
-I love Ruby and JavaScript!
+I do not hate Ruby and JavaScript! GIT is fine too, but automatic interaction kind of sucks.
