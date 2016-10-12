@@ -1,1 +1,1 @@
-I do not hate Ruby and JavaScript! GIT is fine too, but automatic interaction kind of sucks.
+I do not hate Ruby and JavaScript. I like C# and SQL or databases in general. And I wish to know more about functional programming.
